@@ -1,6 +1,3 @@
-Hello, Developer!
+Hello from Divyet Agarwal!
 
-Welcome to your first GitHub workflow project.
-
-This is a simple greeting file that you'll personalize
-as you practice the professional development workflow.
+Excited to learn GitHub workflow 🚀
